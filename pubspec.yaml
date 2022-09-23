@@ -1,8 +1,8 @@
 name: flutterbleplugin
-description: To scan and get the bluetooth devices.
-version: 1.0.1
-repository: https://github.com/rahul110897/flutterbleplugin
-homepage:
+description: Flutter plugin for scanning with Bluetooth Low Energy devices on Android.
+version: 1.0.2
+#repository: https://github.com/rahul110897/flutterbleplugin
+homepage: https://github.com/rahul110897/flutterbleplugin
 
 environment:
   sdk: ">=2.16.0 <3.0.0"
