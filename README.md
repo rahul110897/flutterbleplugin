@@ -1,6 +1,6 @@
 # flutterbleplugin
 
-A new Flutter project.
+Flutter plugin for scanning with Bluetooth Low Energy devices on Android.
 
 ## Getting Started
 

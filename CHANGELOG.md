@@ -1,3 +1,11 @@
+## 1.0.3
+
+    Added LICENSE & CHANGELOG.md & README.md File Changes Done
+
 ## 1.0.2
 
-* To scan and get the bluetooth devices.
+    Added Description and HomePage Url
+
+## 1.0.1
+
+    Describe initial release.
