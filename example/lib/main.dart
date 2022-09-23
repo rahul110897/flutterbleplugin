@@ -49,27 +49,6 @@ class _MyAppState extends State<MyApp> {
             style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
           ),
           centerTitle: true,
-          actions: <Widget>[
-            // InkWell(
-            //   onTap: () async {
-            //     try {
-            //       await _bluetooth.requestPermissions();
-            //       print('All good with perms');
-            //     } on PlatformException catch (e) {
-            //       debugPrint(e.toString());
-            //     }
-            //   },
-            //   child: Center(
-            //     child: Padding(
-            //       padding: const EdgeInsets.only(right: 10.0),
-            //       child: Text(
-            //         'Check permissions',
-            //         style: TextStyle(fontSize: 20, fontWeight: FontWeight.bold),
-            //       ),
-            //     ),
-            //   ),
-            // ),
-          ], //<Widget>[]
         ),
         floatingActionButton: FloatingActionButton(
           // isExtended: true,
